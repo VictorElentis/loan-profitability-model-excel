@@ -1,4 +1,4 @@
- README for repo: loan-profitability-model-excel
+# README for repo: loan-profitability-model-excel
 
 # Loan Profitability and Expected Loss Model (Excel)
 
